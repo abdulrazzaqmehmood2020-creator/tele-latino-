@@ -104,6 +104,12 @@ Coming soon!
 3. Select an operation (+, -, ×, ÷)
 4. Click = to see the result
 5. Click C to clear
+   ## 📚 Documentation
+
+Complete documentation available in the [`docs/`](./docs/) folder:
+- [Installation Guide](./docs/INSTALLATION.md)
+- [Usage Guide](./docs/USAGE.md)
+- [Visual Guide & Screenshots](./docs/SCREENSHOTS.md)
 
 ---
 
