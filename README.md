@@ -142,6 +142,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE
 - [MDN Web Docs](https://developer.mozilla.org/)
 - [GitHub Docs](https://docs.github.com/)
 - [Web Development Best Practices](https://developer.mozilla.org/en-US/docs/Learn)
+- ![Calculator Screenshot](./1.png)
+![Calculator Screenshot 2](./2.png)
+![Calculator Screenshot 3](./3.png)
 
 ---
 
