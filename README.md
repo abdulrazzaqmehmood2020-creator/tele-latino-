@@ -36,7 +36,7 @@ A simple web-based calculator for basic mathematical operations.
 - Responsive design
 - Clean interface
 
-**Live Demo:** [Open Calculator](./tools/calculator.html)
+**Live Demo:** ](calculator.html)
 
 ---
 
